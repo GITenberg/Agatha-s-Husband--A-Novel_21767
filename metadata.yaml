@@ -1,0 +1,38 @@
+_repo: Agatha-s-Husband--A-Novel_21767
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Crane, Walter
+    birthdate: 1845
+    deathdate: 1915
+    gutenberg_agent_id: '7195'
+    url: http://www.gutenberg.org/2009/agents/7195
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Crane
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Craik, Dinah Maria Mulock
+    aliases:
+    - Mulock, Dinah Maria
+    - Mulock, Miss
+    birthdate: 1826
+    deathdate: 1887
+    gutenberg_agent_id: '264'
+    url: http://www.gutenberg.org/2009/agents/264
+    wikipedia: http://en.wikipedia.org/wiki/Dinah_Craik
+description: ''
+gutenberg_issued: '2007-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21767'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: 'Agatha''s Husband: A Novel'
+url: http://www.gutenberg.org/ebooks/21767
